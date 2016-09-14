@@ -31,5 +31,6 @@
         <file>Init.qml</file>
         <file>Machineface/CustomButtonStyle.qml</file>
         <file>Machineface/DisplayPanelBase.qml</file>
+        <file>Machineface/SmartplugControl.qml</file>
     </qresource>
 </RCC>
